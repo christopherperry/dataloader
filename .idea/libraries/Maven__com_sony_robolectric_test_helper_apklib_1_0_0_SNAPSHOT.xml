@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sony.robolectric:test-helper:apklib:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sony/robolectric/test-helper/1.0.0-SNAPSHOT/test-helper-1.0.0-SNAPSHOT.apklib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sony/robolectric/test-helper/1.0.0-SNAPSHOT/test-helper-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sony/robolectric/test-helper/1.0.0-SNAPSHOT/test-helper-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
