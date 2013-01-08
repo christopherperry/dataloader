@@ -1,0 +1,12 @@
+#IntelliJ
+workspace.xml
+tasks.xml
+
+#Maven
+target
+
+#User Specific
+local.properties
+
+#Robolectric
+tmp
